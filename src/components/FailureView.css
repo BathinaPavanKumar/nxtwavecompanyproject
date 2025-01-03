@@ -1,0 +1,27 @@
+.failure-container {
+  text-align: center;
+  padding: 40px;
+}
+
+.failure-container h2 {
+  color: #dc3545;
+  margin-bottom: 10px;
+}
+
+.failure-container p {
+  color: #666;
+  margin-bottom: 20px;
+}
+
+.retry-button {
+  padding: 10px 20px;
+  background-color: #4070f4;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.retry-button:hover {
+  background-color: #3060e0;
+}
